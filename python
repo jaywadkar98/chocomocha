@@ -1,4 +1,4 @@
-pyhton program for addition of two numbers
+pyhton program for addition of three numbers
 
 > a=input("enter the number")
 > b=input("enter the number")
