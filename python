@@ -1,6 +1,8 @@
-pyhton program for addition of two numbers
+pyhton program for addition of three numbers
 
 > a=input("enter the number")
 > b=input("enter the number")
-> c=("addition of two numbers is",a+b)
-> print c
+> c=input("enter the number")
+> d=("addition of three numbers is",a+b+c)
+> print d
+
